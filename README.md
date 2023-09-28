@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Natural Language Processing
 
 OBJECTIVE - To predict sentiment after 3 lockdowns in India from twitter dashboard analysis.
 
